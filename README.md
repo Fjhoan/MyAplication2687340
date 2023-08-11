@@ -29,6 +29,7 @@
 ![Captura de pantalla 2023-08-10 160643](https://github.com/Fjhoan/MyAplication2687340/assets/127045122/01356a22-1440-459b-966d-ab9fb4067447)
 ### Habilitar el tema oscuro
 ![Captura de pantalla 2023-08-10 160902](https://github.com/Fjhoan/MyAplication2687340/assets/127045122/030e19f5-c2f8-499b-8f37-5f03b009822a)
-
+### Animaciones y color de fondo
+![Captura de pantalla 2023-08-10 174048](https://github.com/Fjhoan/MyAplication2687340/assets/127045122/2a16a2a0-f2f2-4a6b-b9a6-e1b0e417c11a)
 
 
